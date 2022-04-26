@@ -6,13 +6,17 @@ See instructions below on how to open and edit source code files:
 
 ## Instructions: How to open IAR project
 1. Install IAR IDE
-2. Copy the folders (with contents): 'Core', 'Drivers', 'EWARM', and 'Middlewares'
-3. In IAR IDE, click "Open Workspace"
-4. Open the 'EWARM' folder
-5. Select 'Project.eww' and open
-6. Make sure the correct current project is showing by clicking on the desired project at the bottom of the Project Manager window
-7. Select the correct version of the project at the top of the Project Manager window
-8. You're set to start editing
+2. DO NOT INSTALL IAR FROM COURSE WEBSITE. Install it from IAR directly. Otherwise, it will NOT work. You need latest version
+    for FreeRTOS plugin to work. 
+3. Copy the folders (with contents): 'Core', 'Drivers', 'EWARM', and 'Middlewares'
+4. In IAR IDE, click "Open Workspace"
+5. Open the 'EWARM' folder
+6. Select 'Project.eww' and open
+7. Make sure the correct current project is showing by clicking on the desired project at the bottom of the Project Manager window
+8. Select the correct version of the project at the top of the Project Manager window
+9. You're set to start editing
+10. Most of the user code will happen in the source files located under the 'User' folder. **NOTE** You can also edit the header
+    files which will need to be opened manually from file explorer. 
 
 ## Structure of project:
 There are multiple folders in the project. The main ones to be concerned with are under the 'User' folder. This is where you will 
