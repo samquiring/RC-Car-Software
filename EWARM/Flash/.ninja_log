@@ -1,48 +1,138 @@
 # ninja log v5
-16	906	6726538756679749	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Application/User/Core/stm32f4xx_hal_msp.o	4645bd19720b99ee
-1135	1990	6726538767042019	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.o	cb6b79e9e46fe6c8
-4251	5102	6726538798667491	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.o	dd1bd3df49517d19
-948	1640	6726538764099924	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Application/User/Core/stm32f4xx_it.o	199a11b9a7c1ee80
-4	1189	6726538759492227	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Application/User/Core/main.o	387e22631fafb77b
-10006	11065	6726538858279946	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Exe/TestingInitialization_STM32F4.out	6d6926a192512106
-3391	4210	6726538789771255	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.o	5e6bdeccf5a655e2
-1019	1829	6726538765954969	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Application/User/Core/spi.o	2bf5f1d9c4fc325a
-6882	7147	6726538819232471	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Middlewares/FreeRTOS/heap_4.o	74b78731697ff4ab
-21	1090	6726538758484889	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Application/User/Core/gpio.o	7001e03254fb6589
-11	978	6726538756909142	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Application/User/Core/stm32f4xx_hal_timebase_tim.o	757d4860a495fc01
-9181	9296	6726538840206405	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Application/EWARM/startup_stm32f407xx.o	95e0f9fb2a0e78a1
-7506	8076	6726538828228423	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Middlewares/FreeRTOS/cmsis_os.o	80a06506e0e96b3e
-5144	6516	6726538812809643	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_spi.o	730ff1f4986833cd
-4669	5450	6726538802158124	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.o	b77ac340ca85059a
-1232	1921	6726538766782707	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Application/User/Core/usb_otg.o	651603ebafabbaa7
-1881	2703	6726538774721523	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Application/User/Core/usart.o	bf4dc20fb98aeffd
-1679	2350	6726538771190934	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Drivers/CMSIS/system_stm32f4xx.o	115f7ed3eb32fb82
-9290	9890	6726538846619249	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Application/User/Core/adc.o	745573c27672b9ed
-1963	3008	6726538777693542	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_adc.o	8a1ea383e43ca9d7
-2033	2925	6726538776915623	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_adc_ex.o	c6716ec51fe2477f
-8702	9136	6726538839139289	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Middlewares/FreeRTOS/port.o	d555010f73684837
-2393	3346	6726538781104421	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.o	5217e8b664e11ad
-5497	6839	6726538815991140	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.o	ccceeb81b8fcc3c4
-2744	3693	6726538784615064	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.o	382ff50785af2a9b
-3052	3834	6726538785991363	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.o	88f8de7cab5f6b19
-3960	4689	6726538793511250	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.o	cb14445dc78c6a20
-2969	3917	6726538786629657	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.o	385feb0518cba0f
-5841	7239	6726538819701219	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.o	cd54105bef1f639
-3876	4566	6726538793311797	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.o	7f05bb79f67b2934
-3737	4624	6726538793291862	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.o	af2f88ad2ebc93ee
-6554	7468	6726538822354173	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.o	e86dd34e6db4a1cb
-4616	5800	6726538805668737	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_hcd.o	e97d80fc80cd11e4
-4731	5546	6726538803075682	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.o	c75fc40342c20a11
-9244	9325	6726538840655199	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Middlewares/FreeRTOS/portasm.o	1b0e80d1e590adb2
-7571	7904	6726538826802275	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Middlewares/FreeRTOS/event_groups.o	60bbaa8924c16f25
-7188	7324	6726538821037662	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_ll_adc.o	462e1247e1d0db6
-5593	8001	6726538827191202	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.o	c18c94f38f679610
-7362	8943	6726538836765598	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_ll_usb.o	308229c85bcf2c62
-8992	9249	6726538839707737	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Middlewares/FreeRTOS/list.o	d0b55be5c3b8c26f
-7278	7527	6726538822693226	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Middlewares/FreeRTOS/croutine.o	3bab21c2d4247d0b
-8116	8657	6726538834252331	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Middlewares/FreeRTOS/stream_buffer.o	abeec80508231211
-8045	9363	6726538840006945	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Middlewares/FreeRTOS/tasks.o	9d69799fc07118c
-7949	8843	6726538836107375	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Middlewares/FreeRTOS/queue.o	704a1736eec36fe4
-11211	11342	6726538861342881	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Exe/TestingInitialization_STM32F4.hex	c1e131e4561cdb20
-8891	9204	6726538839328761	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Middlewares/FreeRTOS/timers.o	8f94caa60cb51dad
-9314	9960	6726538847287513	C:/Users/kevin/Documents/OneDrive/Documents/CSE 475 EMBEDDED SYSTEMS/TestingInitialization_STM32F4/TestingInitialization_STM32F4/EWARM/Flash/Obj/Application/User/Core/freertos.o	a558cf6a7ca6f53a
+870	1480	6731554856891806	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.o	2e710b6b308d4977
+879	903	6731370229004309	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/EWARM/startup_stm32f407xx.o	e0a3e5fd0124354c
+1593	2934	6731554871235951	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.o	5ba2841809527daf
+928	1439	6731554856471690	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.o	36528688485e6211
+653	1066	6731554852830630	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/usart.o	87fcc5578fa0da84
+853	1361	6731554855751493	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_adc_ex.o	3857e9d4856267e2
+3	704	6731554849189585	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/gpio.o	3c196e466d5b51d2
+479	858	6731554850550005	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/stm32f4xx_hal_timebase_tim.o	a8ce393a973de504
+38	915	6731554850820060	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/stm32f4xx_it.o	c04ad20b9837aa25
+887	1496	6731554856911809	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_adc.o	73709bb64d5e1bec
+847	873	6731370228714246	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/portasm.o	90e8880660048727
+34	875	6731554850559991	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/usb_otg.o	57079bf393efeef4
+565	951	6731554851470252	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/CMSIS/system_stm32f4xx.o	ce4b63267cb94a6f
+963	1399	6731554856051565	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.o	b675bc22fa874fea
+715	1156	6731554853730891	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.o	1f8399871a13d7c
+1076	1543	6731554857582007	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.o	bea2b313c9116306
+802	1285	6731554854991257	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.o	27506b408d684e31
+1169	1582	6731554857812079	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/adc.o	4cb8b71fe3ab583
+12	468	6731554846768913	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/spi.o	940facf4a810b569
+24	841	6731554850489957	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/stm32f4xx_hal_msp.o	eebe0c7fc7a044b7
+16	638	6731554848519388	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.o	5ca87dfab5707c8f
+20	554	6731554847699161	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/freertos.o	d77bbb8363cdf6b7
+29	791	6731554850049841	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/main.o	db034257e7aceea
+1492	1876	6731554860893060	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.o	9a78a1efcee90518
+1833	1916	6731554861413130	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_ll_adc.o	4077e4d8fcae59e5
+1451	1821	6731554860242788	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.o	8422eac88d6693f
+1373	1802	6731554860162750	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.o	a88eb3dc1b20bbd0
+1410	2134	6731554863463705	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_hcd.o	212f5076a5fd5984
+1297	1739	6731554859562581	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.o	c7f3f6ea96d9cb0
+1508	2002	6731554862153336	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.o	6d77d2270fb79aa9
+2215	2355	6731554865584308	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/list.o	3a1a68876fbfdcc2
+1887	2391	6731554865584308	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.o	902d07fad232ff14
+2252	2422	6731554865924415	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/croutine.o	94b999c68c092d91
+2149	2373	6731554865624319	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/heap_4.o	feaa12416cd886e5
+1816	2616	6731554868255087	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_spi.o	20540cb7b173e0f8
+2013	2204	6731554864253925	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/event_groups.o	9e69b8b1fbb5f5a1
+1753	2664	6731554868785235	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.o	3148ab76c24f79b9
+1928	2240	6731554864524009	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/cmsis_os.o	932ce3ca0cd7df6
+1556	2324	6731554865354245	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.o	ee7d72e6ed555da1
+2366	2692	6731554869055310	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/stream_buffer.o	6993761cc09b548f
+2436	2583	6731554867854973	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/timers.o	52f19403b8514329
+2385	2555	6731554867754938	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/port.o	99689f7d00918379
+2568	2900	6731554871095914	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/queue.o	76f0f6fde8ed6893
+2336	3045	6731554872616436	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_ll_usb.o	ea671e5a976dc885
+2403	2886	6731554871045897	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/tasks.o	a29b604956ba0c65
+3057	3204	6731554874226807	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Exe/TestingInitialization_STM32F4.out	4da68458be9d5d5a
+3248	3269	6731554874997031	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Exe/TestingInitialization_STM32F4.hex	d9654f50e088103f
+17	371	6731557040650823	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/stm32f4xx_it.o	c04ad20b9837aa25
+11	411	6731557041020938	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/stm32f4xx_hal_timebase_tim.o	a8ce393a973de504
+27	433	6731557040980918	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/CMSIS/system_stm32f4xx.o	ce4b63267cb94a6f
+2	471	6731557041170979	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/usart.o	87fcc5578fa0da84
+23	491	6731557041120955	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/usb_otg.o	57079bf393efeef4
+39	507	6731557041551083	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.o	bea2b313c9116306
+44	524	6731557041661109	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.o	27506b408d684e31
+35	544	6731557041681121	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.o	b675bc22fa874fea
+519	866	6731557045642261	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/adc.o	4cb8b71fe3ab583
+537	903	6731557045842313	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/spi.o	940facf4a810b569
+425	936	6731557046082386	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.o	1f8399871a13d7c
+558	969	6731557046232428	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.o	5ca87dfab5707c8f
+383	1005	6731557046712570	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.o	36528688485e6211
+484	1026	6731557046832605	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_adc_ex.o	3857e9d4856267e2
+502	1069	6731557047522796	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_adc.o	73709bb64d5e1bec
+446	1102	6731557047742869	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.o	2e710b6b308d4977
+877	1338	6731557050323609	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/gpio.o	3c196e466d5b51d2
+980	1382	6731557050753733	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/stm32f4xx_hal_msp.o	eebe0c7fc7a044b7
+950	1423	6731557051013810	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/main.o	db034257e7aceea
+915	1461	6731557051493946	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/freertos.o	d77bbb8363cdf6b7
+1115	1496	6731557051784045	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.o	8422eac88d6693f
+1081	1533	6731557052214158	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.o	c7f3f6ea96d9cb0
+1018	1572	6731557052544248	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.o	6d77d2270fb79aa9
+1584	1694	6731557054014685	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_ll_adc.o	4077e4d8fcae59e5
+1039	1736	6731557054174715	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_hcd.o	212f5076a5fd5984
+1350	1774	6731557054644860	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.o	a88eb3dc1b20bbd0
+1393	1810	6731557054874922	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.o	9a78a1efcee90518
+1823	1911	6731557056135307	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/croutine.o	94b999c68c092d91
+1785	2062	6731557057635717	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/cmsis_os.o	932ce3ca0cd7df6
+1925	2097	6731557057925808	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/heap_4.o	feaa12416cd886e5
+1709	2154	6731557058515977	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.o	902d07fad232ff14
+2076	2205	6731557059096143	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/list.o	3a1a68876fbfdcc2
+1436	2251	6731557059216172	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.o	ee7d72e6ed555da1
+1545	2328	6731557060216477	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_spi.o	20540cb7b173e0f8
+2110	2356	6731557060426515	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/event_groups.o	9e69b8b1fbb5f5a1
+2216	2386	6731557060726609	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/timers.o	52f19403b8514329
+1508	2421	6731557061086712	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.o	3148ab76c24f79b9
+2261	2445	6731557061366795	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/port.o	99689f7d00918379
+1749	2486	6731557061836927	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_ll_usb.o	ea671e5a976dc885
+2340	2593	6731557062967268	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/stream_buffer.o	6993761cc09b548f
+2164	2678	6731557063797579	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/tasks.o	a29b604956ba0c65
+2368	2704	6731557064057582	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/queue.o	76f0f6fde8ed6893
+1473	2815	6731557065097962	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.o	5ba2841809527daf
+2830	2977	6731557066758514	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Exe/TestingInitialization_STM32F4.out	4da68458be9d5d5a
+3026	3045	6731557067578588	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Exe/TestingInitialization_STM32F4.hex	d9654f50e088103f
+3	341	6731557262006174	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/stm32f4xx_hal_timebase_tim.o	a8ce393a973de504
+18	370	6731557262126204	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/usb_otg.o	57079bf393efeef4
+22	388	6731557262126204	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/CMSIS/system_stm32f4xx.o	ce4b63267cb94a6f
+11	419	6731557262226236	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/stm32f4xx_it.o	c04ad20b9837aa25
+15	436	6731557262286251	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/usart.o	87fcc5578fa0da84
+26	475	6731557262996462	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.o	b675bc22fa874fea
+31	498	6731557263016463	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.o	bea2b313c9116306
+36	540	6731557263686656	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.o	36528688485e6211
+431	856	6731557267117645	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.o	27506b408d684e31
+401	886	6731557267237675	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.o	1f8399871a13d7c
+489	905	6731557267237675	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/adc.o	4cb8b71fe3ab583
+511	939	6731557267587777	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/freertos.o	d77bbb8363cdf6b7
+352	955	6731557267987897	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.o	2e710b6b308d4977
+552	972	6731557267977890	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/main.o	db034257e7aceea
+447	1010	6731557268358005	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_adc_ex.o	3857e9d4856267e2
+382	1034	6731557268528049	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_adc.o	73709bb64d5e1bec
+867	1328	6731557271859013	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/stm32f4xx_hal_msp.o	eebe0c7fc7a044b7
+1046	1366	6731557272099080	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.o	8422eac88d6693f
+916	1384	6731557272079077	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/spi.o	940facf4a810b569
+983	1399	6731557272179104	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.o	9a78a1efcee90518
+950	1418	6731557272259128	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Application/User/Core/gpio.o	3c196e466d5b51d2
+898	1447	6731557272369167	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.o	5ca87dfab5707c8f
+967	1464	6731557272479193	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.o	a88eb3dc1b20bbd0
+1022	1502	6731557273339433	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.o	6d77d2270fb79aa9
+1414	1519	6731557273719552	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_ll_adc.o	4077e4d8fcae59e5
+1531	1621	6731557274919892	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/croutine.o	94b999c68c092d91
+1632	1799	6731557276610395	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/event_groups.o	9e69b8b1fbb5f5a1
+1340	1873	6731557277350590	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.o	c7f3f6ea96d9cb0
+1515	1909	6731557277650685	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.o	902d07fad232ff14
+1921	2025	6731557278921052	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/list.o	3a1a68876fbfdcc2
+1380	2070	6731557279271156	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_hcd.o	212f5076a5fd5984
+1812	2145	6731557280111386	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/cmsis_os.o	932ce3ca0cd7df6
+1431	2204	6731557280611540	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_spi.o	20540cb7b173e0f8
+2036	2223	6731557280711576	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/heap_4.o	feaa12416cd886e5
+1476	2265	6731557280971639	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.o	ee7d72e6ed555da1
+1460	2303	6731557281321741	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_uart.o	3148ab76c24f79b9
+2218	2376	6731557282402050	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/timers.o	52f19403b8514329
+2277	2425	6731557282922205	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/port.o	99689f7d00918379
+2158	2486	6731557283522374	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/stream_buffer.o	6993761cc09b548f
+2080	2572	6731557284372613	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/tasks.o	a29b604956ba0c65
+2236	2597	6731557284552670	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Middlewares/FreeRTOS/queue.o	76f0f6fde8ed6893
+1885	2612	6731557284542663	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_ll_usb.o	ea671e5a976dc885
+1395	2752	6731557286093211	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Obj/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.o	5ba2841809527daf
+2766	2904	6731557287673666	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Exe/TestingInitialization_STM32F4.out	4da68458be9d5d5a
+2943	2961	6731557288373769	C:/Users/Sam's Custom Pc/Documents/GitHub/RC-Car-Software/EWARM/Flash/Exe/TestingInitialization_STM32F4.hex	d9654f50e088103f

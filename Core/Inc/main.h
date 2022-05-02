@@ -85,6 +85,8 @@ void Error_Handler(void);
 #define SPI1_MISO_GPIO_Port GPIOA
 #define SPI1_MOSI_Pin GPIO_PIN_7
 #define SPI1_MOSI_GPIO_Port GPIOA
+#define IR_SENSOR_1_Pin GPIO_PIN_4
+#define IR_SENSOR_1_GPIO_Port GPIOC
 #define BOOT1_Pin GPIO_PIN_2
 #define BOOT1_GPIO_Port GPIOB
 #define LED_1_Pin GPIO_PIN_7
