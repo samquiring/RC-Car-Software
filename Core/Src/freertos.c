@@ -45,7 +45,6 @@
 
 /* Private variables ---------------------------------------------------------*/
 /* USER CODE BEGIN Variables */
-
 /* USER CODE END Variables */
 osThreadId defaultTaskHandle;
 osMessageQId myExampleQueue01Handle;
